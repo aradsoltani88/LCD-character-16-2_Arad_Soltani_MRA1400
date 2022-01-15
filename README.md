@@ -1,2 +1,1 @@
-# LCD-character-16-2_Arad_Soltani_MRA1400
-Learning to work with an LCD character(16*2)
+	**Learning all about 16 * 2 LCD with Arduino:**
