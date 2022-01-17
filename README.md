@@ -8,6 +8,8 @@ To work with your 16 * 2 LCD you need:
 3. The knowledge to do that.
 ## Learning how to connect the LCD with I2c module on it and how to work with the functions
 First, make sure to read the **datasheet** of the LCD which is in **docs** directory so you know more things about it. Next you need to connect you LCD to your Arduino and to do that go to **code** directory and the **function learning.md**. also there you will learn all functions needed to run and work with your LCD. Also make sure to test the example file in **code** directory to see if every thing is going well.
+## Here is an image of the wiring
+![4444](https://user-images.githubusercontent.com/85987690/149811998-6e838fee-7bfe-4324-bd40-bc1077e36ca8.png)
 
 ***Also if you have any problems send me your message to "arad.soltani88@gmial.com"***
 
