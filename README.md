@@ -2,6 +2,7 @@
 ------------
 ## Installing the library
 First you need to download the zip file in **[_docs, LiquidCrystal_I2C library_](https://github.com/aradsoltani88/LCD-character-16-2_Arad_Soltani_MRA1400/tree/main/docs/LiquidCrystal_I2C%20library)** directory and install it in your arduino in the zip way. To do that, in your arduino, click on the **_Sketch_** icon and then **_include library_** and at last inset the library you already downloaded by clicking the **_add .zip library_**. Now you have the library.
+
 ------------
 ## Things you need
 To work with your 16 * 2 LCD you need:
